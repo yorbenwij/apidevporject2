@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+ countries-api-service:
+  image: yorbenwij/apiproject2-yorbenw
+  ports:
+    - "8000:8000"
+  volumes:
+    - sqlite_countries_volume:/code/sqlitedb
+
+volumes:
+  sqlite_countries_volume:
