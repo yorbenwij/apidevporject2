@@ -5,16 +5,16 @@ ik heb deze keer wel wat problemen gehad met de database en met frontend in reac
 https://countries-api-service-yorbenwij.cloud.okteto.net/docs#/
 
 ### repo frontend react
-3.1 (+15%) Maak een front-end.
+**3.1** (+15%) Maak een front-end.
 
-3.1.3 (+15%) Gebruik Vue, React, Angular of Svelte als JavaScript framework.
+**3.1.3** (+15%) Gebruik Vue, React, Angular of Svelte als JavaScript framework.
 
 uitleg over dit deel staat in de readme van deze repo.
 
 https://github.com/yorbenwij/apidev-project2-react
 
 ### repo mongodb atlas
-4.1 (+20%) Maak een tweede versie van je originele API, maar deze keer gebruik je MongoDB Atlas i.p.v. een SQL oplossing. Je plaatst deze in een nieuwe GitHub repository, met als README.md een korte uitleg van de verschillen.
+**4.1** (+20%) Maak een tweede versie van je originele API, maar deze keer gebruik je MongoDB Atlas i.p.v. een SQL oplossing. Je plaatst deze in een nieuwe GitHub repository, met als README.md een korte uitleg van de verschillen.
 
 ook hier vindt je meer uitleg in de repo zelf over dit deel.
 
