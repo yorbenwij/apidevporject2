@@ -41,6 +41,22 @@ https://github.com/yorbenwij/apidevmongodb
 ![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/e4040488-e981-4812-9f5f-ec5c02be641b)
 ![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/22d47e31-79ad-4c12-a9ea-468065198c95)
 
+#### postman to test endpoints
+
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/4f9c787e-92a5-42c0-8c1c-d46ea1f472bd)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/d3152354-c304-4696-9295-7bd760f0be5c)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/6854c819-bd5e-46d9-907a-9ff47f3e2045)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/97802137-1458-4a57-8dd1-2035a840caf2)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/98d20ab5-a9fe-4e95-9d99-dc9b0d5e72e4)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/41f7bae8-c2b6-4b5b-a39a-9655f065ebc7)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/c7532ab8-a5e2-4584-bb1e-2aee5098144e)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/88751d7e-381c-451b-aaf2-1c407b7dcbc0)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/df8f1eaf-0bd6-4b8a-b008-680ea1766978)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/2059177b-442f-4cdd-9f7d-ad6ac6e7899f)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/c57a9b90-8e1d-4ac7-9110-17de304fbca5)
+![image](https://github.com/yorbenwij/apidevporject2/assets/91123168/672d43bb-ba40-428d-9270-a39a15f00133)
+
+
 
 
 
